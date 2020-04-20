@@ -11,7 +11,7 @@ layout: feed
 	<id>https://scassacocchi.github.io/blog/</id>
 	<author>
 		<name>Patrick Hart</name>
-		<email>patrick.hart@bilkent.edu,tr</email>
+		<email>patrick.hart@bilkent.edu.tr</email>
 	</author>
 
 	{% for post in site.posts %}
