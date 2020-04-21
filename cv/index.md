@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-(v.0.5.4)
+(v.0.5.5)
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -14,42 +14,39 @@ Monterey, CA
 
 Nationality: British
 
-<details>
-	<summary>## Academic Education & Qualifications</summary>
-	<br>
-**2006 – 2011 | Ph.D., English Literature, Scottish Institute of Northern Renaissance Studies**  
+## Academic Education & Qualifications<
+**2006 – 2011  |  Ph.D., English Literature, Scottish Institute of Northern Renaissance Studies**  
 Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early Modern English and Scottish Petrarchism, c.1530-1630’  
 • Supervisors: Dr. Theo van Heijnsbergen (Glasgow) & Dr. Alison Thorne (Strathclyde)  
 • Examiners: Prof. Cathy Shrank (Sheffield) and Dr. David Kinloch (Strathclyde)  
 • Fully funded through a Humanities Faculty Scholarship  
 
-**2004 – 2005 | M.Litt. in Renaissance Studies, Scottish Institute of Northern Renaissance Studies (Distinction)**  
+**2004 – 2005  |  M.Litt. in Renaissance Studies, Scottish Institute of Northern Renaissance Studies (Distinction)**  
 • Joint program run by the Universities of Glasgow, Stirling and Strathclyde (Scotland)  
 • Dissertation title: ‘Baroque Petrarchism in England and Scotland: William Drummond of Hawthornden and Lady Mary Wroth’.   
 • Supervisor: Dr. Theo van Heijnsbergen (Glasgow)  
 • Fees funded through the Renaissance Studies Scholarship (Stirling University)  
 
-**1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London**  
+**1999 – 2000  |  One year of doctoral study, English Literature, King’s College, University of London**  
 • ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
 • Fully funded through an Arts & Humanities Research Board (AHRB) studentship
 
-**Summer 1997 | CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London**
+**Summer 1997  |  CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London**
 
-**1996 – 1997 | M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)**  
+**1996 – 1997  |  M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)**  
 • Dissertation title: ‘Hearing the Thunder: From DA to bababadalgharagh…’ (focusing largely on Joyce,
 Forster & Eliot – awarded highest grade for an MA dissertation that year)    
 • Fully funded by the British Academy  
 
-**1993 – 1996 | B.A. (Hons) First Class, Philosophy & English, University of Manchester**  
+**1993 – 1996  |  B.A. (Hons) First Class, Philosophy & English, University of Manchester**  
 • Winner of the Michael Polanyi Philosophy Prize (highest graduating grade in Philosophy)  
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
-<details> 
-	
+
 ## Awards & Scholarships
 
 | Year |   |  Award |
-|---|---|:---|
+|---|------|:---|
 | 2018 | \| | Turkey & Black Sea Scholarship, British Institute at Ankara |
 | 2016 | \| | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
 | 2009 | \| | Teaching Excellence Award, University of Strathclyde |  
@@ -62,16 +59,19 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 | 1996 | \| | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |  
 
 ## Positions Held  
-Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA  
-Sept 2012 – present | Assistant Professor of English Language & Literature, Bilkent University, Ankara  
-Jan - June 2016 | Visiting Scholar, English Literature, Universidad Autónoma de Madrid (sabbatical)  
-Oct 2010 – Sept 2012 | Lecturer in English Literature, İstanbul Kültür Üniversitesi, Istanbul, Turkey  
-Oct 2007 – June 2009 | Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK  
-June – Aug 2008 | Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow  
-May – Sept 2006 | English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies  
-June 2003 - August 2004 | Drug Action Team Manager, Berkshire NHS Trust / Reading Council   
-April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council, London  
-1998 – 2007 | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  
+
+| Year |   |  Position |
+|---|------|:---|
+| Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA |   
+| Sept 2012 – present | Assistant Professor of English Language & Literature, Bilkent University, Ankara |   
+| Jan - June 2016 | Visiting Scholar, English Literature, Universidad Autónoma de Madrid (sabbatical)  |  
+| Oct 2010 – Sept 2012 | Lecturer in English Literature, İstanbul Kültür Üniversitesi, Istanbul, Turkey  |  
+| Oct 2007 – June 2009 | Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK  |  
+| June – Aug 2008 | Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow  |  
+| May – Sept 2006 | English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies  |  
+| June 2003 - August 2004 | Drug Action Team Manager, Berkshire NHS Trust / Reading Council   |  
+| April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council, London  |  
+| 1998 – 2007 | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  |  
 
 ## Teaching Experience
 ### Undergraduate Teaching
