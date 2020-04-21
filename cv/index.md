@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-v.0.5.1
+(v.0.5.2)
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
