@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-# Patrick Henry Hart 2
+# Patrick Henry Hart 3
 
 patrickhenryhart@gmail.com 
 ✆ 831 582 1060
@@ -45,10 +45,10 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara  
 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid  
 2009 | Teaching Excellence Award, University of Strathclyde  
-2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde  
-2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below)  
-2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs)    
-2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs)  
+2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde   
+2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below)    
+2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs)      
+2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs)    
 1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only)  
 1997 | British Academy Masters Studentship (fees and costs)  
 1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark)  
@@ -71,9 +71,9 @@ April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council
 
 #### Bilkent University (2012 to present)
 
-**_Freshman_**
-- British History
-- British Society and Culture
+**_Freshman_**  
+- British History  
+- British Society and Culture  
 - Research and Writing Techniques for English Literature
 - Appreciation of Literature
 
@@ -96,58 +96,56 @@ April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council
 
 #### İstanbul Kültür Üniversitesi (2010-12)  
 **_Freshman_**  
-• Survey of English Literature
-• British Culture and Civilisation
-• Aural and Oral Skills Development
-• Advanced Reading and Writing
-• Oral Communication Skills
+• Survey of English Literature  
+• British Culture and Civilisation  
+• Aural and Oral Skills Development  
+• Advanced Reading and Writing  
+• Oral Communication Skills  
 
-**_Sophomore_**  
-• Popular Culture
-• Medieval and Renaissance Varieties of Love
-• Oral Communications Skills
-• Written Communication of Ideas
-• Sources of Western Culture and Civilisation
+**_Sophomore_**   
+• Popular Culture  
+• Medieval and Renaissance Varieties of Love  
+• Oral Communications Skills  
+• Written Communication of Ideas  
+• Sources of Western Culture and Civilisation  
 
 **_Junior_**  
-• Readings in Milton
-• The Victorian Novel
+• Readings in Milton  
+• The Victorian Novel  
 
 **_Senior & Elective_**  
-• Readings in Literary Criticism
-• Theory in Practice
-• Postmodern Literature
+• Readings in Literary Criticism  
+• Theory in Practice  
+• Postmodern Literature  
 
 #### University of Strathclyde (2007-09)  
-• Romanticism (GTA)
-• Modernism (GTA)
+• Romanticism (GTA)  
+• Modernism (GTA)  
 
-#### University of Edinburgh | Institute of Applied Language Studies (2006)
-
-• English for Academic Purposes – intensive EFL course for students about to begin UG and PG studies
+#### University of Edinburgh | Institute of Applied Language Studies (2006)  
+• English for Academic Purposes – intensive EFL course for students about to begin UG and PG studies  
 
 ### Postgraduate Supervision
-
 #### Thesis Supervision
-- Dogan, Pelin (November 2017). _Representing and Challenging Censorship on the English Stage, 1965-2012_. English Literature PhD Thesis, Ankara University, Turkey (external supervisor)
-- Tunc, Gunes (June 2018). _Academic discourse socialization of English literature students through literature circles_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.
+- Dogan, Pelin (November 2017). _Representing and Challenging Censorship on the English Stage, 1965-2012_. English Literature PhD Thesis, Ankara University, Turkey (external supervisor)  
+- Tunc, Gunes (June 2018). _Academic discourse socialization of English literature students through literature circles_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.  
 	
-#### Thesis Committees
-- Kurt, S. (June, 2018). _Raising EFL learners’ awareness of suprasegmental features as an aid to understanding implicatures_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.
-- Mutlu, S. (May, 2015). _Non-native teachers stepping into native teachers’ shoes_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.
-- Guven, S. (January, 2015). _EFL Learners’ Attitudes towards Learning Intercultural Communicative Competence_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.
-- Kullu, A. (July, 2014). _The Role of Native English Speaking Teachers in Promoting Intercultural Sensitivity_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.
+#### Thesis Committees  
+- Kurt, S. (June, 2018). _Raising EFL learners’ awareness of suprasegmental features as an aid to understanding implicatures_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.  
+- Mutlu, S. (May, 2015). _Non-native teachers stepping into native teachers’ shoes_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.  
+- Guven, S. (January, 2015). _EFL Learners’ Attitudes towards Learning Intercultural Communicative Competence_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.  
+- Kullu, A. (July, 2014). _The Role of Native English Speaking Teachers in Promoting Intercultural Sensitivity_. MA in Teaching English as a foreign language (TEFL) Thesis, Graduate School of Education, Bilkent University, Ankara, Turkey.  
 
-## Project Management Experience
+## Project Management Experience  
 
-**Erasmus Exchange Programme Coordinator (2014-16)**
-As Department Coordinator at Bilkent University from 2014 to 2016, I was responsible for organising both student and faculty exchanges with partner universities in the UK, France, Spain, Greece, Germany and the Netherlands, and establishing new partnership agreements with institutions such as Eszterházy Károly College in Hungary.
+**Erasmus Exchange Programme Coordinator (2014-16)**  
+As Department Coordinator at Bilkent University from 2014 to 2016, I was responsible for organising both student and faculty exchanges with partner universities in the UK, France, Spain, Greece, Germany and the Netherlands, and establishing new partnership agreements with institutions such as Eszterházy Károly College in Hungary.  
 
-**Drug Action Projects (2003-04)**
-As Drug Action Team Manager, I was responsible for running the multi-agency partnership and coordinating drug-related services across the borough. Statutory partners, all with their own objectives and targets, included Berkshire NHS (National Health Service) Trust, Reading Borough Council, Thames Valley Police, Royal Berkshire Fire and Rescue Service, and the National Probation Service. The role involved considerable project management. Projects I personally managed included the setting-up of a needle exchange scheme and dropbox to keep drug paraphernalia off the streets and minimise health risks for users, and the establishment of the Reading Users Group to ensure that drug users had input into decisions around the provision of treatment services.
+**Drug Action Projects (2003-04)**  
+As Drug Action Team Manager, I was responsible for running the multi-agency partnership and coordinating drug-related services across the borough. Statutory partners, all with their own objectives and targets, included Berkshire NHS (National Health Service) Trust, Reading Borough Council, Thames Valley Police, Royal Berkshire Fire and Rescue Service, and the National Probation Service. The role involved considerable project management. Projects I personally managed included the setting-up of a needle exchange scheme and dropbox to keep drug paraphernalia off the streets and minimise health risks for users, and the establishment of the Reading Users Group to ensure that drug users had input into decisions around the provision of treatment services.  
 
-**Community Safety Projects (2000-02)**
-As Community Safety Projects Officer for Lambeth, I sat on six multi-agency working groups (Domestic Violence, Street Crime, Anti-Social Behaviour, Burglary, Youth Offending, Alcohol and Drug-related Crime.) I was also responsible for administering the Community Safety Projects Fund on behalf of the multi-agency Community Safety Partnership. This meant advertising the Fund to community groups and voluntary organisations, soliciting bids for funding, evaluating bids and then supporting and monitoring the selected projects to ensure they met milestones, stayed on budget and were completed on schedule and in compliance with the relevant regulations. While some projects had budgets in the hundreds of thousands (e.g. town centre CCTV provision), others were very small-scale and run by local community organisations, such as a summer football coaching programme for BAME youth in Brixton, and a domestic violence awareness programme. These projects often required considerable administrative and advisory support, which I provided. 
+**Community Safety Projects (2000-02)**  
+As Community Safety Projects Officer for Lambeth, I sat on six multi-agency working groups (Domestic Violence, Street Crime, Anti-Social Behaviour, Burglary, Youth Offending, Alcohol and Drug-related Crime.) I was also responsible for administering the Community Safety Projects Fund on behalf of the multi-agency Community Safety Partnership. This meant advertising the Fund to community groups and voluntary organisations, soliciting bids for funding, evaluating bids and then supporting and monitoring the selected projects to ensure they met milestones, stayed on budget and were completed on schedule and in compliance with the relevant regulations. While some projects had budgets in the hundreds of thousands (e.g. town centre CCTV provision), others were very small-scale and run by local community organisations, such as a summer football coaching programme for BAME youth in Brixton, and a domestic violence awareness programme. These projects often required considerable administrative and advisory support, which I provided.   
 
 ## Publications
 
@@ -248,17 +246,15 @@ As Community Safety Projects Officer for Lambeth, I sat on six multi-agency work
 ## Skills
 
 ### Computing/Web
-
-• Highly competent user of both Mac and PC platforms and all Office applications.
-
-• Familiar with .html, .css and .php files, designing and  websites on Wordpress.org and Wordpress.com
-
-- Advocate of open platform research and publishing tools, and especially of plain text / Markdown files for academic writing.
+- Highly competent user of both Mac and PC platforms and all Office applications.  
+- Familiar with .html, .css and .php files, designing and  websites on Wordpress.org and Wordpress.com  
+- Advocate of open platform research and publishing tools, and especially of plain text / Markdown files for academic writing.  
+- For what it's worth, I built this website myself using GitHub.
 
 ### Languages
 • English (native), Italian (fluent), Turkish (basic)
 
-[1]:	https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/
+
 
 
 
