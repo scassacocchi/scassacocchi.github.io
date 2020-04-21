@@ -2,8 +2,10 @@
 layout: default
 ---
 # Patrick Henry Hart
+
 patrickhenryhart@gmail.com 
 ✆ 831 582 1060
+
 400 Van Buren Street 
 Monterey, CA 
 93940 
@@ -11,30 +13,22 @@ Nationality: British
 
 ## Academic Education & Qualifications
 ### 2006 – 2011 | Ph.D., English Literature, Scottish Institute of Northern Renaissance Studies
-
 Thesis: ‘ “Leaves which whisper’d what they could not say”: Early Modern English and Scottish Petrarchism, c.1530-1630’
-
 • Supervisors: Dr. Theo van Heijnsbergen (Glasgow) & Dr. Alison Thorne (Strathclyde)
-
 • Examiners: Prof. Cathy Shrank (Sheffield) and Dr. David Kinloch (Strathclyde)
-
 • Fully funded through a Humanities Faculty Scholarship
 
 ### 2004 – 2005 | M.Litt. in Renaissance Studies, Scottish Institute of Northern Renaissance Studies (Distinction)
-
 • Joint program run by the Universities of Glasgow, Stirling and Strathclyde (Scotland)
-
-• Dissertation: ‘Baroque Petrarchism in England and Scotland: William Drummond of Hawthornden and Lady Mary Wroth’. Supervisor: Dr. Theo van Heijnsbergen (Glasgow)
-
+• Dissertation: ‘Baroque Petrarchism in England and Scotland: William Drummond of Hawthornden and Lady Mary Wroth’. 
+• Supervisor: Dr. Theo van Heijnsbergen (Glasgow)
 • Fees funded through the Renaissance Studies Scholarship (Stirling University)
 
 ### 1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London
-
-• ‘Contemporary British poetry, environmental philosophy and the Modernist inheritance’. After oneyear I left the course for personal reasons in order to move to Italy.
-
+• ‘Contemporary British poetry, environmental philosophy and the Modernist inheritance’. After one year I left the course for personal reasons in order to move to Italy.
 • Fully funded through an Arts & Humanities Research Board (AHRB) studentship
 
-Summer 1997 | CELTA (Certificate in English Language Teaching to Adults) - grade B, Saxoncourt College, London
+### Summer 1997 | CELTA (Certificate in English Language Teaching to Adults) - grade B, Saxoncourt College, London
 
 ### 1996 – 1997 | M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)
 
