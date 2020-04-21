@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-(v.0.5.7)
+(v.0.5.8)
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -108,8 +108,8 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 | Oct 2007 – June 2009 |  || |  || Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK  |  
 | June – Aug 2008 |  || |  || Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow  |  
 | May – Sept 2006 |  || |  || English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies  |  
-| June 2003 - August 2004 |  || |  || Drug Action Team Manager, Berkshire NHS Trust / Reading Council   |  
-| April 2000 - September 2002 |  || |  || Community Safety Projects Officer, Lambeth Council, London  |  
+| June 2003 - Aug 2004 |  || |  || Drug Action Team Manager, Berkshire NHS Trust / Reading Council   |  
+| April 2000 - Sept 2002 |  || |  || Community Safety Projects Officer, Lambeth Council, London  |  
 | 1998 – 2007 |  || |  || Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  |  
 
 
