@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-(v.0.5.3)
+(v.0.5.4)
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -14,7 +14,9 @@ Monterey, CA
 
 Nationality: British
 
-## Academic Education & Qualifications  
+<details>
+	<summary>## Academic Education & Qualifications</summary>
+	<br>
 **2006 – 2011 | Ph.D., English Literature, Scottish Institute of Northern Renaissance Studies**  
 Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early Modern English and Scottish Petrarchism, c.1530-1630’  
 • Supervisors: Dr. Theo van Heijnsbergen (Glasgow) & Dr. Alison Thorne (Strathclyde)  
@@ -42,6 +44,8 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 • Winner of the Michael Polanyi Philosophy Prize (highest graduating grade in Philosophy)  
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
+<details> 
+	
 ## Awards & Scholarships
 
 | Year |   |  Award |
