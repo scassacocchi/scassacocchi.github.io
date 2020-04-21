@@ -44,18 +44,18 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 
 ## Awards & Scholarships
 
-| Year | Award |
-|---|---|
-| 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara |
-| 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
-| 2009 | Teaching Excellence Award, University of Strathclyde |  
-| 2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
-| 2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
-| 2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs) |     
-| 2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs) |   
-| 1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |  
-| 1997 | British Academy Masters Studentship (fees and costs) |  
-| 1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |  
+| Year |   |  Award |
+|---|---|:---|
+| 2018 |  | Turkey & Black Sea Scholarship, British Institute at Ankara |
+| 2016 |  | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
+| 2009 | \| | Teaching Excellence Award, University of Strathclyde |  
+| 2007 | \| | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
+| 2007 | \| | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
+| 2006 | \| | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs) |     
+| 2004 | \| | Renaissance Studies Scholarship, University of Stirling (fees & costs) |   
+| 1999 | \| | AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |  
+| 1997 | \| | British Academy Masters Studentship (fees and costs) |  
+| 1996 | \| | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |  
 
 ## Positions Held  
 Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA  
