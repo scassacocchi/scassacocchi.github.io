@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-(v.0.5.5)
+(v.0.5.6)
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -14,7 +14,7 @@ Monterey, CA
 
 Nationality: British
 
-## Academic Education & Qualifications<
+## Academic Education & Qualifications
 **2006 – 2011  |  Ph.D., English Literature, Scottish Institute of Northern Renaissance Studies**  
 Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early Modern English and Scottish Petrarchism, c.1530-1630’  
 • Supervisors: Dr. Theo van Heijnsbergen (Glasgow) & Dr. Alison Thorne (Strathclyde)  
@@ -43,9 +43,7 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
 ## Publications
-
-**Books**
-
+**Books**  
 - (in press) _Henrietta Liston’s Travels: The Turkish Journals 1812–1820_, ed. by Patrick Hart, Dora Petherbridge & Valerie Kennedy. Edinburgh: Edinburgh University Press, Fall 2020. [https://edinburghuniversitypress.com/book-henrietta-liston-039-s-travels-hb.html](https://edinburghuniversitypress.com/book-henrietta-liston-039-s-travels-hb.html)
 
 - (in preparation) _Baroque Petrarchism: Postfiguring Petrarch in Britain, 1590-1625_. (A re-examination of ‘belated’ or baroque forms of Petrarchism in the poetry of Shakespeare, Mary Wroth, William Drummond and others, through the prism of a re-engagement with Petrarch’s own writings and with twentieth- and twenty-first-century Italian writing on Petrarch.)
@@ -54,8 +52,7 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 
 - Elsa Morante, _The Song of the H.F. and of the U.M., in three parts_, trans. by Patrick Hart and Mariangela Palladino, with critical introduction by Patrick Hart. Oxford & Novi Ligure: Transference, 2007. [http://www.edizionijoker.com/Pagine%20libri/TRA%20-%20La%20canzone%20degli%20FP%20-%20Morante.html](http://www.edizionijoker.com/Pagine%20libri/TRA%20-%20La%20canzone%20degli%20FP%20-%20Morante.html)
 
-**Articles and Book Chapters**
-
+**Articles and Book Chapters**  
 - (with Dora Petherbridge), 'The Eye of a Stranger: Henrietta Liston’s Turkish Journals', _Scottish Review of Books_ 14, published online 5 August 2019 [https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/](https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/)
 
 - 'Unpicking the Turkish Tapestry: Teaching Shakespeare in Anatolia', in _How and Why We Teach Shakespeare_, ed. by Sidney Homan. Oxford and New York: Routledge, 2019: 180-191.
@@ -66,16 +63,14 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 
 - ‘Giambattista Vico’, in _A Waterstone’s Guide to Ideas_ (London, 1998)
 
-**Editorials**
-
+**Editorials**  
 - Editorial, _Journal of the Northern Renaissance_ 7, Autumn 2015 (with Lynsey McCullogh)
 
 - Editorial, _Journal of the Northern Renaissance_ 3, Autumn 2011 (with Sebastiaan Verweij and Elizabeth Elliott)
 
 - 'The Idea of North', _Journal of the Northern Renaissance_ 1, Autumn 2009 (with Sebastiaan Verweij)
 
-**Book Reviews**
-
+**Book Reviews**  
 - _Sir Thomas Wyatt and the Rhetoric of Rewriting: ‘Turning the Word’_, by Chris Stamatakis (Oxford UP, 2012), _Early Modern Literary Studies_ 17.1, 2014
 
 - _The Writings of an English Sappho: Elizabeth Cooke Hoby Russell_, ed. by Patricia Phillippy (Toronto: Centre for Reformation and Renaissance Studies, 2011), _Reformation and Renaissance Review_ 15.3, November 2013
