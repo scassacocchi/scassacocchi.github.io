@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-(v.0.5.2)
+(v.0.5.3)
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -29,7 +29,7 @@ Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early 
 
 **1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London**  
 • ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
-• Fully funded through an Arts & Humanities Research Board (AHRB) studentship  
+• Fully funded through an Arts & Humanities Research Board (AHRB) studentship
 
 **Summer 1997 | CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London**
 
@@ -46,8 +46,8 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 
 | Year |   |  Award |
 |---|---|:---|
-| 2018 |  | Turkey & Black Sea Scholarship, British Institute at Ankara |
-| 2016 |  | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
+| 2018 | \| | Turkey & Black Sea Scholarship, British Institute at Ankara |
+| 2016 | \| | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
 | 2009 | \| | Teaching Excellence Award, University of Strathclyde |  
 | 2007 | \| | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
 | 2007 | \| | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
