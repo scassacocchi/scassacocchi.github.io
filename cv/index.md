@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 # Patrick Henry Hart  
-v.0.5
+v.0.5.1
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -47,15 +47,15 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 | Year | Award |
 |---|---|
 | 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara |
-| 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid | 
-| 2009 | Teaching Excellence Award, University of Strathclyde | 
+| 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
+| 2009 | Teaching Excellence Award, University of Strathclyde |  
 | 2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
 | 2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
 | 2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs) |     
 | 2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs) |   
-| 1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |
-| 1997 | British Academy Masters Studentship (fees and costs) |
-| 1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |
+| 1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |  
+| 1997 | British Academy Masters Studentship (fees and costs) |  
+| 1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |  
 
 ## Positions Held  
 Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA  
@@ -206,7 +206,7 @@ As Community Safety Projects Officer for Lambeth, I sat on six multi-agency work
 
 - Invited speaker: 'Publishing in the Humanities: an editor’s view,’ University of Edinburgh, co-funded by the Scottish Graduate School for the Arts and Humanities and the AHRC-funded’Academic Book of the Future’ initiative (21 September 2016)
 
-- '"Adda murì: _Cesare deve morire_ as metadaptation’, BAAHE Annual ‘Adaptation’ conference, Vrije Universiteit, Brussels. (4 December 2015)
+- '"_Adda murì_: _Cesare deve morire_ as metadaptation’, BAAHE Annual ‘Adaptation’ conference, Vrije Universiteit, Brussels. (4 December 2015)
 
 - ‘In Provence, Kent and Christendom: Luigi Alamanni and Wyatt’s feeling Stoicism’, Seventh International IDEA Conference, Pamukkale University (17 April, 2013)
 
@@ -216,7 +216,7 @@ As Community Safety Projects Officer for Lambeth, I sat on six multi-agency work
 
 - 'Performing George Peele's _The Arraignment of Paris_ in Istanbul'. Invited contribution to 'Early Modern Texts in Performance', Edinburgh University Renaissance and Early Modern Discussion Group, at the Institute for Advanced Studies in the Humanities (26 January 2012)
 
-- ‘Al suon de l’acque scriva! Fluvial Petrarchism in Renaissance Scotland’, Sixth International IDEA Conference, İstanbul Kültür University (14 April, 2011)
+- ‘_Al suon de l’acque scriva_! Fluvial Petrarchism in Renaissance Scotland’, Sixth International IDEA Conference, İstanbul Kültür University (14 April, 2011)
 
 - ‘William Drummond of Hawthornden and Petrarchan national sentiment in the wake of the Union of the Crowns’. Dis/placing the British Empire: Theoretical and Critical Views from Scottish Studies, ESSE 10, Università degli Studi di Torino (26 August 2010)
 
