@@ -31,7 +31,7 @@ Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early 
 • ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
 • Fully funded through an Arts & Humanities Research Board (AHRB) studentship
 
-**Summer 1997  |  CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London
+**Summer 1997  |  CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London**
 
 **1996 – 1997  |  M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)**  
 • Dissertation title: ‘Hearing the Thunder: From DA to bababadalgharagh…’ (focusing largely on Joyce,
