@@ -2,10 +2,10 @@
 layout: default
 title: CV
 ---
-# Patrick Henry Hart 3
+# Patrick Henry Hart 4
 
-patrickhenryhart@gmail.com 
-✆ 831 582 1060
+patrickhenryhart@gmail.com   
+✆ 831 238 1914
 
 400 Van Buren Street  
 Monterey, CA  
@@ -28,20 +28,22 @@ Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early 
 
 **1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London**  
 • ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
-• Fully funded through an Arts & Humanities Research Board (AHRB) studentship 
+• Fully funded through an Arts & Humanities Research Board (AHRB) studentship  
 
 **Summer 1997 | CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London**
 
 **1996 – 1997 | M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)**  
 • Dissertation title: ‘Hearing the Thunder: From DA to bababadalgharagh…’ (focusing largely on Joyce,
 Forster & Eliot – awarded highest grade for an MA dissertation that year)    
-• Fully funded by the British Academy
+• Fully funded by the British Academy  
 
 **1993 – 1996 | B.A. (Hons) First Class, Philosophy & English, University of Manchester**  
 • Winner of the Michael Polanyi Philosophy Prize (highest graduating grade in Philosophy)  
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
 ## Awards & Scholarships
+| Year | Award |
+| --- | --- |
 | 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara |
 | 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid | 
 | 2009 | Teaching Excellence Award, University of Strathclyde | 
@@ -66,22 +68,19 @@ April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council
 1998 – 2007 | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  
 
 ## Teaching Experience
-
 ### Undergraduate Teaching
-
 #### Bilkent University (2012 to present)
-
-**_Freshman_**  
+**_Freshman_**    
 - British History  
 - British Society and Culture  
 - Research and Writing Techniques for English Literature
 - Appreciation of Literature
 
-**_Sophomore_**
+**_Sophomore_**  
 - Poetry and Poetics
 - Medieval and Renaissance Literature / British Literature, 1000-1700
 
-**_unior_**
+**_Junior_**  
 - Medieval Literature
 - Shakespeare I: Romances, Comedies, ‘Problem’ Plays
 - Shakespeare II: Tragedies, Histories, Roman Plays
