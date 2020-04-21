@@ -2,7 +2,8 @@
 layout: default
 title: CV
 ---
-# Patrick Henry Hart 4
+# Patrick Henry Hart  
+v.0.5
 
 patrickhenryhart@gmail.com   
 ✆ 831 238 1914
@@ -42,8 +43,9 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
 ## Awards & Scholarships
+
 | Year | Award |
-| --- | --- |
+|---|---|
 | 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara |
 | 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid | 
 | 2009 | Teaching Excellence Award, University of Strathclyde | 
