@@ -6,41 +6,38 @@ layout: default
 patrickhenryhart@gmail.com 
 ✆ 831 582 1060
 
-400 Van Buren Street 
-Monterey, CA 
-93940 
+400 Van Buren Street  
+Monterey, CA  
+93940  
+
 Nationality: British
 
-## Academic Education & Qualifications
+## Academic Education & Qualifications  
 ### 2006 – 2011 | Ph.D., English Literature, Scottish Institute of Northern Renaissance Studies
-Thesis: ‘ “Leaves which whisper’d what they could not say”: Early Modern English and Scottish Petrarchism, c.1530-1630’
-• Supervisors: Dr. Theo van Heijnsbergen (Glasgow) & Dr. Alison Thorne (Strathclyde)
-• Examiners: Prof. Cathy Shrank (Sheffield) and Dr. David Kinloch (Strathclyde)
-• Fully funded through a Humanities Faculty Scholarship
+Thesis: ‘ “Leaves which whisper’d what they could not say”: Early Modern English and Scottish Petrarchism, c.1530-1630’  
+• Supervisors: Dr. Theo van Heijnsbergen (Glasgow) & Dr. Alison Thorne (Strathclyde)  
+• Examiners: Prof. Cathy Shrank (Sheffield) and Dr. David Kinloch (Strathclyde)  
+• Fully funded through a Humanities Faculty Scholarship  
 
-### 2004 – 2005 | M.Litt. in Renaissance Studies, Scottish Institute of Northern Renaissance Studies (Distinction)
-• Joint program run by the Universities of Glasgow, Stirling and Strathclyde (Scotland)
-• Dissertation: ‘Baroque Petrarchism in England and Scotland: William Drummond of Hawthornden and Lady Mary Wroth’. 
-• Supervisor: Dr. Theo van Heijnsbergen (Glasgow)
-• Fees funded through the Renaissance Studies Scholarship (Stirling University)
+### 2004 – 2005 | M.Litt. in Renaissance Studies, Scottish Institute of Northern Renaissance Studies (Distinction)  
+• Joint program run by the Universities of Glasgow, Stirling and Strathclyde (Scotland)  
+• Dissertation: ‘Baroque Petrarchism in England and Scotland: William Drummond of Hawthornden and Lady Mary Wroth’.   
+• Supervisor: Dr. Theo van Heijnsbergen (Glasgow)  
+• Fees funded through the Renaissance Studies Scholarship (Stirling University)  
 
-### 1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London
-• ‘Contemporary British poetry, environmental philosophy and the Modernist inheritance’. After one year I left the course for personal reasons in order to move to Italy.
-• Fully funded through an Arts & Humanities Research Board (AHRB) studentship
+### 1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London  
+• ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
+• Fully funded through an Arts & Humanities Research Board (AHRB) studentship    
 
 ### Summer 1997 | CELTA (Certificate in English Language Teaching to Adults) - grade B, Saxoncourt College, London
 
 ### 1996 – 1997 | M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)
-
 • Dissertation: ‘Hearing the Thunder: From DA to bababadalgharagh…’: (focusing largely on Joyce,
-Forster & Eliot – awarded highest grade for an MA dissertation that year)
-
+Forster & Eliot – awarded highest grade for an MA dissertation that year)    
 • Fully funded by the British Academy
 
-### 1993 – 1996 | B.A. (Hons) First Class, Philosophy & English, University of Manchester
-
-• Winner of the Michael Polanyi Philosophy Prize (highest graduating grade in Philosophy)
-
+### 1993 – 1996 | B.A. (Hons) First Class, Philosophy & English, University of Manchester  
+• Winner of the Michael Polanyi Philosophy Prize (highest graduating grade in Philosophy)  
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
 ## Awards & Scholarships
