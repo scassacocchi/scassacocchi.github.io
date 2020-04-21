@@ -30,7 +30,7 @@ Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early 
 • ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
 • Fully funded through an Arts & Humanities Research Board (AHRB) studentship 
 
-**Summer 1997 | CELTA ((Certificate in English Language Teaching to Adults) - grade B, Saxoncourt College, London**  
+**Summer 1997 | CELTA (Certificate in English Language Teaching to Adults), grade B: Saxoncourt College, London**
 
 **1996 – 1997 | M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)**  
 • Dissertation title: ‘Hearing the Thunder: From DA to bababadalgharagh…’ (focusing largely on Joyce,
@@ -42,16 +42,16 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
 ## Awards & Scholarships
-2018 | Turkey & Black Sea Scholarship, British Institute at Ankara  
-2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid  
-2009 | Teaching Excellence Award, University of Strathclyde  
-2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde   
-2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below)    
-2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs)      
-2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs)    
-1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only)  
-1997 | British Academy Masters Studentship (fees and costs)  
-1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark)  
+| 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara |
+| 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid | 
+| 2009 | Teaching Excellence Award, University of Strathclyde | 
+| 2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
+| 2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
+| 2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs) |     
+| 2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs) |   
+| 1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |
+| 1997 | British Academy Masters Studentship (fees and costs) |
+| 1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |
 
 ## Positions Held  
 Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA  
