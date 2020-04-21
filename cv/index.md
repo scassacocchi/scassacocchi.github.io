@@ -22,7 +22,7 @@ Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early 
 • Fully funded through a Humanities Faculty Scholarship  
 
 **2004 – 2005  |  M.Litt. in Renaissance Studies, Scottish Institute of Northern Renaissance Studies (Distinction)**  
-• Joint program run by the Universities of Glasgow, Stirling and Strathclyde (Scotland)  
+• Joint program run by the Universities of Edinburgh, Glasgow, Stirling and Strathclyde (Scotland)  
 • Dissertation title: ‘Baroque Petrarchism in England and Scotland: William Drummond of Hawthornden and Lady Mary Wroth’.   
 • Supervisor: Dr. Theo van Heijnsbergen (Glasgow)  
 • Fees funded through the Renaissance Studies Scholarship (Stirling University)  
@@ -42,36 +42,81 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 • Winner of the Michael Polanyi Philosophy Prize (highest graduating grade in Philosophy)  
 • Dissertation: 'James Joyce's _New Science_' (on Joyce's reading of Giambattista Vico) 
 
+## Publications
+
+**Books**
+
+- (in press) _Henrietta Liston’s Travels: The Turkish Journals 1812–1820_, ed. by Patrick Hart, Dora Petherbridge & Valerie Kennedy. Edinburgh: Edinburgh University Press, Fall 2020. [https://edinburghuniversitypress.com/book-henrietta-liston-039-s-travels-hb.html](https://edinburghuniversitypress.com/book-henrietta-liston-039-s-travels-hb.html)
+
+- (in preparation) _Baroque Petrarchism: Postfiguring Petrarch in Britain, 1590-1625_. (A re-examination of ‘belated’ or baroque forms of Petrarchism in the poetry of Shakespeare, Mary Wroth, William Drummond and others, through the prism of a re-engagement with Petrarch’s own writings and with twentieth- and twenty-first-century Italian writing on Petrarch.)
+
+- _Studies in English: Proceedings from the Sixth International IDEA Conference_, ed. by Patrick Hart. İstanbul: İKÜ Press, 2012.
+
+- Elsa Morante, _The Song of the H.F. and of the U.M., in three parts_, trans. by Patrick Hart and Mariangela Palladino, with critical introduction by Patrick Hart. Oxford & Novi Ligure: Transference, 2007. [http://www.edizionijoker.com/Pagine%20libri/TRA%20-%20La%20canzone%20degli%20FP%20-%20Morante.html](http://www.edizionijoker.com/Pagine%20libri/TRA%20-%20La%20canzone%20degli%20FP%20-%20Morante.html)
+
+**Articles and Book Chapters**
+
+- (with Dora Petherbridge), 'The Eye of a Stranger: Henrietta Liston’s Turkish Journals', _Scottish Review of Books_ 14, published online 5 August 2019 [https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/](https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/)
+
+- 'Unpicking the Turkish Tapestry: Teaching Shakespeare in Anatolia', in _How and Why We Teach Shakespeare_, ed. by Sidney Homan. Oxford and New York: Routledge, 2019: 180-191.
+
+- ‘“Tripand tyddis” and “loving kyndnes”: representations of female desire in late Middle Scots poetry’ _Ecloga_, 5, 2006.
+
+- ‘The Badge of Shame: Blushing in Early Modern English Literature’ _Ecloga_, 4, 2005.
+
+- ‘Giambattista Vico’, in _A Waterstone’s Guide to Ideas_ (London, 1998)
+
+**Editorials**
+
+- Editorial, _Journal of the Northern Renaissance_ 7, Autumn 2015 (with Lynsey McCullogh)
+
+- Editorial, _Journal of the Northern Renaissance_ 3, Autumn 2011 (with Sebastiaan Verweij and Elizabeth Elliott)
+
+- 'The Idea of North', _Journal of the Northern Renaissance_ 1, Autumn 2009 (with Sebastiaan Verweij)
+
+**Book Reviews**
+
+- _Sir Thomas Wyatt and the Rhetoric of Rewriting: ‘Turning the Word’_, by Chris Stamatakis (Oxford UP, 2012), _Early Modern Literary Studies_ 17.1, 2014
+
+- _The Writings of an English Sappho: Elizabeth Cooke Hoby Russell_, ed. by Patricia Phillippy (Toronto: Centre for Reformation and Renaissance Studies, 2011), _Reformation and Renaissance Review_ 15.3, November 2013
+
+- _Authority Matters: Rethinking the Theory and Practice of Authorship_, ed. by Stephen Donovan et al. (Rodopi,2009) – European English Messenger 21.1, Summer 2012
+
+- _Elizabeth I: Translations_, ed. by Janel Mueller and Joshua Scodel (Chicago, 2009), _Early Modern Literary Studies_ 15.3, 2011
+
+- _Machiavelli in the British Isles_, by Alessandra Petrina (Ashgate, 2010), _International Journal of Scottish Literature_, 2010
+
 
 ## Awards & Scholarships
 
-| Year |   |  Award |
-|---|------|:---|
-| 2018 | \| | Turkey & Black Sea Scholarship, British Institute at Ankara |
-| 2016 | \| | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
-| 2009 | \| | Teaching Excellence Award, University of Strathclyde |  
-| 2007 | \| | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
-| 2007 | \| | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
-| 2006 | \| | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs) |     
-| 2004 | \| | Renaissance Studies Scholarship, University of Stirling (fees & costs) |   
-| 1999 | \| | AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |  
-| 1997 | \| | British Academy Masters Studentship (fees and costs) |  
-| 1996 | \| | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |  
+| Year | |   | |  Award |
+|---|---|------|---|:---|
+| 2018 | | \| ||  Turkey & Black Sea Scholarship, British Institute at Ankara |
+| 2016 | | \| ||  Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid |  
+| 2009 | | \| ||  Teaching Excellence Award, University of Strathclyde |  
+| 2007 | | \| ||  Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde |  
+| 2007 | | \| ||  Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below) |   
+| 2006 | | \| ||  Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs) |     
+| 2004 | | \| ||  Renaissance Studies Scholarship, University of Stirling (fees & costs) |   
+| 1999 | | \| ||  AHRB Doctoral Studentship (3-year award: taken up for 1 year only) |  
+| 1997 | | \| ||  British Academy Masters Studentship (fees and costs) |  
+| 1996 | | \| ||  Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark) |  
 
 ## Positions Held  
 
-| Year |   |  Position |
-|---|------|:---|
-| Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA |   
-| Sept 2012 – present | Assistant Professor of English Language & Literature, Bilkent University, Ankara |   
-| Jan - June 2016 | Visiting Scholar, English Literature, Universidad Autónoma de Madrid (sabbatical)  |  
-| Oct 2010 – Sept 2012 | Lecturer in English Literature, İstanbul Kültür Üniversitesi, Istanbul, Turkey  |  
-| Oct 2007 – June 2009 | Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK  |  
-| June – Aug 2008 | Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow  |  
-| May – Sept 2006 | English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies  |  
-| June 2003 - August 2004 | Drug Action Team Manager, Berkshire NHS Trust / Reading Council   |  
-| April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council, London  |  
-| 1998 – 2007 | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  |  
+| Year |   |Position |
+|---| ------ | :--- |
+| Spring 2020 | \| | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA |   
+| Sept 2012 – present | \| | Assistant Professor of English Language & Literature, Bilkent University, Ankara |   
+| Jan - June 2016 | \| | Visiting Scholar, English Literature, Universidad Autónoma de Madrid (sabbatical)  |  
+| Oct 2010 – Sept 2012 | \| | Lecturer in English Literature, İstanbul Kültür Üniversitesi, Istanbul, Turkey  |  
+| Oct 2007 – June 2009 | \| | Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK  |  
+| June – Aug 2008 | \| | Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow  |  
+| May – Sept 2006 | \| | English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies  |  
+| June 2003 - August 2004 | \| | Drug Action Team Manager, Berkshire NHS Trust / Reading Council   |  
+| April 2000 - September 2002 | \| | Community Safety Projects Officer, Lambeth Council, London  |  
+| 1998 – 2007 | \| | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  |  
+
 
 ## Teaching Experience
 ### Undergraduate Teaching
@@ -152,49 +197,7 @@ As Drug Action Team Manager, I was responsible for running the multi-agency part
 **Community Safety Projects (2000-02)**  
 As Community Safety Projects Officer for Lambeth, I sat on six multi-agency working groups (Domestic Violence, Street Crime, Anti-Social Behaviour, Burglary, Youth Offending, Alcohol and Drug-related Crime.) I was also responsible for administering the Community Safety Projects Fund on behalf of the multi-agency Community Safety Partnership. This meant advertising the Fund to community groups and voluntary organisations, soliciting bids for funding, evaluating bids and then supporting and monitoring the selected projects to ensure they met milestones, stayed on budget and were completed on schedule and in compliance with the relevant regulations. While some projects had budgets in the hundreds of thousands (e.g. town centre CCTV provision), others were very small-scale and run by local community organisations, such as a summer football coaching programme for BAME youth in Brixton, and a domestic violence awareness programme. These projects often required considerable administrative and advisory support, which I provided.   
 
-## Publications
 
-**Books**
-
-- (under contract) _Henrietta Liston’s Travels: The Turkish Journals 1812–1820_, ed. by Patrick Hart, Dora Petherbridge & Valerie Kennedy. Edinburgh: Edinburgh University Press, Fall 2020. [https://edinburghuniversitypress.com/book-henrietta-liston-039-s-travels-hb.html]
-
-- (in preparation) _Baroque Petrarchism: Postfiguring Petrarch in Britain, 1590-1625_. (A re-examination of ‘belated’ or baroque forms of Petrarchism in the poetry of Shakespeare, Mary Wroth, William Drummond and others, through the prism of a re-engagement with Petrarch’s own writings and with twentieth- and twenty-first-century Italian writing on Petrarch.)
-
-- _Studies in English: Proceedings from the Sixth International IDEA Conference_, ed. by Patrick Hart. İstanbul: İKÜ Press, 2012.
-
-- Elsa Morante, _The Song of the H.F. and of the U.M., in three parts_, trans. by Patrick Hart and Mariangela Palladino, with critical introduction by Patrick Hart. Oxford & Novi Ligure: Transference, 2007. [http://www.edizionijoker.com/Pagine%20libri/TRA%20-%20La%20canzone%20degli%20FP%20-%20Morante.html]
-
-**Articles and Book Chapters**
-
-- (with Dora Petherbridge), 'The Eye of a Stranger: Henrietta Liston’s Turkish Journals', _Scottish Review of Books_ 14, published online 5 August 2019 [https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/]
-
-- 'Unpicking the Turkish Tapestry: Teaching Shakespeare in Anatolia', in _How and Why We Teach Shakespeare_, ed. by Sidney Homan. Oxford and New York: Routledge, 2019: 180-191.
-
-- ‘“Tripand tyddis” and “loving kyndnes”: representations of female desire in late Middle Scots poetry’ _Ecloga_, 5, 2006.
-
-- ‘The Badge of Shame: Blushing in Early Modern English Literature’ _Ecloga_, 4, 2005.
-
-- ‘Giambattista Vico’, in _A Waterstone’s Guide to Ideas_ (London, 1998)
-
-**Editorials**
-
-- Editorial, _Journal of the Northern Renaissance_ 7, Autumn 2015 (with Lynsey McCullogh)
-
-- Editorial, _Journal of the Northern Renaissance_ 3, Autumn 2011 (with Sebastiaan Verweij and Elizabeth Elliott)
-
-- 'The Idea of North', _Journal of the Northern Renaissance_ 1, Autumn 2009 (with Sebastiaan Verweij)
-
-**Book Reviews**
-
-- _Sir Thomas Wyatt and the Rhetoric of Rewriting: ‘Turning the Word’_, by Chris Stamatakis (Oxford UP, 2012), _Early Modern Literary Studies_ 17.1, 2014
-
-- _The Writings of an English Sappho: Elizabeth Cooke Hoby Russell_, ed. by Patricia Phillippy (Toronto: Centre for Reformation and Renaissance Studies, 2011), _Reformation and Renaissance Review_ 15.3, November 2013
-
-- _Authority Matters: Rethinking the Theory and Practice of Authorship_, ed. by Stephen Donovan et al. (Rodopi,2009) – European English Messenger 21.1, Summer 2012
-
-- _Elizabeth I: Translations_, ed. by Janel Mueller and Joshua Scodel (Chicago, 2009), _Early Modern Literary Studies_ 15.3, 2011
-
-- _Machiavelli in the British Isles_, by Alessandra Petrina (Ashgate, 2010), _International Journal of Scottish Literature_, 2010
 
 **Presentations, Talks & Conference Papers**  
 
