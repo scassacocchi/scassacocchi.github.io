@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-# Patrick Henry Hart
+# Patrick Henry Hart 2
 
 patrickhenryhart@gmail.com 
 ✆ 831 582 1060
@@ -28,9 +28,9 @@ Thesis title: ‘ “Leaves which whisper’d what they could not say”: Early 
 
 **1999 – 2000 | One year of doctoral study, English Literature, King’s College, University of London**  
 • ‘Contemporary British poetry, environmental philosophy and Late Modernism’. 
-• Fully funded through an Arts & Humanities Research Board (AHRB) studentship    
+• Fully funded through an Arts & Humanities Research Board (AHRB) studentship 
 
-**Summer 1997 | CELTA (Certificate in English Language Teaching to Adults) - grade B, Saxoncourt College, London**  
+**Summer 1997 | CELTA ((Certificate in English Language Teaching to Adults) - grade B, Saxoncourt College, London**  
 
 **1996 – 1997 | M.A., Literature, Culture and Modernity Queen Mary, University of London (QMUL)**  
 • Dissertation title: ‘Hearing the Thunder: From DA to bababadalgharagh…’ (focusing largely on Joyce,
@@ -45,25 +45,25 @@ Forster & Eliot – awarded highest grade for an MA dissertation that year)
 2018 | Turkey & Black Sea Scholarship, British Institute at Ankara  
 2016 | Bilkent Sabbatical Award - to support a 6-month period of research leave at the Universidad Autónoma de Madrid  
 2009 | Teaching Excellence Award, University of Strathclyde  
-2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde
-2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below)
-2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs)
-2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs)
-1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only)
-1997 | British Academy Masters Studentship (fees and costs)
-1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark)
+2007 | Keith Wright Memorial Prize for Creative Writing (First Place), University of Strathclyde  
+2007 | Carnegie Trust Award (for publication of The Song of the H.F. (see ‘Publications’, below)  
+2006 | Faculty Postgraduate Scholarship, University of Strathclyde (fees & costs)    
+2004 | Renaissance Studies Scholarship, University of Stirling (fees & costs)  
+1999 | AHRB Doctoral Studentship (3-year award: taken up for 1 year only)  
+1997 | British Academy Masters Studentship (fees and costs)  
+1996 | Michael Polanyi Philosophy Prize, University of Manchester (awarded for highest graduating mark)  
 
 ## Positions Held  
-Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA
-Sept 2012 – present | Assistant Professor of English Language & Literature, Bilkent University, Ankara
-Jan - June 2016 | Visiting Scholar, English Literature, Universidad Autónoma de Madrid (sabbatical)
-Oct 2010 – Sept 2012 | Lecturer in English Literature, İstanbul Kültür Üniversitesi, Istanbul, Turkey
-Oct 2007 – June 2009 | Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK
-June – Aug 2008 | Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow
-May – Sept 2006 | English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies
-June 2003 - August 2004 | Drug Action Team Manager, Berkshire NHS Trust / Reading Council 
-April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council, London
-1998 – 2007 | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy
+Spring 2020 | Visiting Scholar, Middlebury Institute of International Studies, Monterey CA, USA  
+Sept 2012 – present | Assistant Professor of English Language & Literature, Bilkent University, Ankara  
+Jan - June 2016 | Visiting Scholar, English Literature, Universidad Autónoma de Madrid (sabbatical)  
+Oct 2010 – Sept 2012 | Lecturer in English Literature, İstanbul Kültür Üniversitesi, Istanbul, Turkey  
+Oct 2007 – June 2009 | Graduate Teaching Assistant, University of Strathclyde, Glasgow, UK  
+June – Aug 2008 | Drama and English Studies Tutor (Summer School), University of Strathclyde, Glasgow  
+May – Sept 2006 | English Language Instructor (EFL), University of Edinburgh, Institute for Applied Language Studies  
+June 2003 - August 2004 | Drug Action Team Manager, Berkshire NHS Trust / Reading Council   
+April 2000 - September 2002 | Community Safety Projects Officer, Lambeth Council, London  
+1998 – 2007 | Teacher & Tutor, various posts and locations, including Berlitz Edinburgh and the British School in Naples, Italy  
 
 ## Teaching Experience
 
@@ -163,7 +163,7 @@ As Community Safety Projects Officer for Lambeth, I sat on six multi-agency work
 
 **Articles and Book Chapters**
 
-- (with Dora Petherbridge), 'The Eye of a Stranger: Henrietta Liston’s Turkish Journals', _Scottish Review of Books_ 14, published online 5 August 2019 [https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/][1]
+- (with Dora Petherbridge), 'The Eye of a Stranger: Henrietta Liston’s Turkish Journals', _Scottish Review of Books_ 14, published online 5 August 2019 [https://www.scottishreviewofbooks.org/features/from-the-national-library-of-scotland/]
 
 - 'Unpicking the Turkish Tapestry: Teaching Shakespeare in Anatolia', in _How and Why We Teach Shakespeare_, ed. by Sidney Homan. Oxford and New York: Routledge, 2019: 180-191.
 
